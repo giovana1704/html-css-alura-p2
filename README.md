@@ -1,1 +1,6 @@
-# html-css-alura-p2
+<!DOCTYPT html>
+<html>
+    <meta charset="UTF-8">
+    <title>Produtos - Barbearia Alura</title>
+    
+    
